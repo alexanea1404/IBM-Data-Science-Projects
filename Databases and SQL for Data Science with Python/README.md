@@ -1,7 +1,7 @@
 
 #SQL for Data Science with Python 
 ## Concepts Practised:
--Write foundational SQL statements like: SELECT, INSERT, UPDATE, and DELETE 
+- Write foundational SQL statements like: SELECT, INSERT, UPDATE, and DELETE 
 - Filter result sets, use WHERE, COUNT, DISTINCT, and LIMIT clauses 
 - CREATE, ALTER, DROP and load tables 
 - Use string patterns and ranges; ORDER and GROUP result sets, and built-in database functions 
